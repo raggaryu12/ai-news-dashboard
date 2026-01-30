@@ -18,9 +18,9 @@ st.markdown("""
         background: linear-gradient(180deg, #87CEEB 0%, #4A90E2 50%, #2E5C8A 100%);
     }
     
-    /* サイドバー - 砂浜カラー */
+    /* サイドバー - 薄いピンク */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #F4E4C1 0%, #E8D4A8 100%);
+        background: linear-gradient(180deg, #FFE4E9 0%, #FFD1DC 100%);
     }
     
     [data-testid="stSidebar"] h1 {
